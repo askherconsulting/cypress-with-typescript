@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^11.2.0",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.4"
+  }
+}
